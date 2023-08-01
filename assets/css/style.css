@@ -9046,7 +9046,7 @@ select:visited {
 .ft-footer-section {
   padding-top: 120px;
  background: rgb(112,161,193);
- background: linear-gradient(313deg, rgb(2 18 29) 6%, rgb(25 37 61) 55%, rgb(19 61 156 / 97%) 100%);
+ background: linear-gradient(313deg, rgb(135 147 173 / 71%) 6%, rgb(157 183 190 / 62%) 55%, rgb(255 255 255 / 97%) 100%);
 }
 
 .ft-footer-widget-wrapper {
@@ -9054,7 +9054,7 @@ select:visited {
 }
 
 .ft-footer-widget .widget-title {
-  color: #fff;
+  color: #0e2950;
   font-size: 20px;
   font-weight: 700;
   padding-bottom: 25px;
@@ -9070,7 +9070,8 @@ select:visited {
 }
 
 .ft-footer-widget .logo-widget p {
-  color: #fff;
+  font-weight: 500;
+  color: #0e2950;
   max-width: 250px;
   padding-bottom: 35px;
 }
@@ -9078,7 +9079,7 @@ select:visited {
   margin-bottom: 18px;
 }
 .ft-footer-widget .menu-widget li a {
-  color: #fff;
+  color: #0e2950;
   position: relative;
 }
 .ft-footer-widget .menu-widget li a:before {
