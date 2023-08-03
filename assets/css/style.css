@@ -16790,7 +16790,10 @@ ul li {
   .ft-team-text-area {
     margin-bottom: 30px;
   }
-
+  .heaader-logo{
+    font-size: 15px;
+    }
+    
   .ft-project-section .ft-section-title {
     padding-bottom: 20px;
   }
@@ -17837,6 +17840,8 @@ display:block
 display:none
 }
 }
+
+
 
 
 
