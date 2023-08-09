@@ -772,7 +772,7 @@ select:visited {
   width: 100%;
   z-index: 10;
   position: absolute;
-  background-image: linear-gradient(to right,#928fc6 0%, #fffafa 20%,#fff 10%, #ebf3ff 70%);
+  background-image: linear-gradient(to right,#fff 0%, #fffafa 20%,#fff 10%, #ebf3ff 70%);
 }
 .ft-header-section.header-style-one .dropdown-menu {
   top: 48px;
