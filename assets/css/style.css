@@ -772,7 +772,7 @@ select:visited {
   width: 100%;
   z-index: 10;
   position: absolute;
-  background-image: linear-gradient(to right,#fff 0%, #fffafa 20%,#fff 10%, #ebf3ff 70%);
+  background-color: #fff;
 }
 .ft-header-section.header-style-one .dropdown-menu {
   top: 48px;
@@ -17844,7 +17844,8 @@ display:none
 
 
 .logo-header{
-  width: 75%;
+  width: 63%;
+  margin-top: 10px;
 }
 
 
